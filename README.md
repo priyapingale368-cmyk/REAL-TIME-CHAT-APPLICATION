@@ -27,3 +27,7 @@ Visual Studio Code (VS Code) is used as the primary development environment for 
 A real-time chat application is a highly practical and essential software solution in today’s digital world. It improves communication efficiency, enhances user experience, and plays a crucial role in both professional and personal interactions.
 
 Real-time chat applications have wide applicability in various fields. They are commonly used in social networking platforms to enable instant communication between users. In corporate environments, they support internal team communication and collaboration. Customer support systems use chat applications to provide instant assistance to users. In education, real-time chat helps students and teachers interact during online classes. These applications are also popular in gaming platforms, healthcare consultations, and e-commerce websites for real-time user engagement.
+
+<img width="1202" height="845" alt="Image" src="https://github.com/user-attachments/assets/647dd866-d8e2-41b8-bbf5-28e831156a24" />
+
+<img width="1900" height="879" alt="Image" src="https://github.com/user-attachments/assets/d9e883db-c695-4186-86a3-e07e489386ba" />
